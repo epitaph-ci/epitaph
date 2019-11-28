@@ -1,8 +1,11 @@
-# epitaph-cli
-The CLI tool for Epitaph CI
+# epitaph
+The core functionality of Epitaph CI
 
-## [Documentation](https://epitaph-ci.github.io/cli)
+## Install
 
-## FOSSA Status
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fepitaph-ci%2Fepitaph-cli.svg?type=small)](https://app.fossa.io/projects/git%2Bgithub.com%2Fepitaph-ci%2Fepitaph-cli?ref=badge_small)  
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fepitaph-ci%2Fepitaph-cli.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fepitaph-ci%2Fepitaph-cli?ref=badge_large)
+``` bash
+npm i -g @epitaph/core
+```
+to install this service globally
+
+For documentation, see the [Documentation Site](https://epitaph-ci.github.io/)

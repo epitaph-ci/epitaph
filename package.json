@@ -7,7 +7,7 @@
   "author": "Andy <andy200511@126.com>",
   "license": "MIT",
   "dependencies": {
-    "dockerode": "^3.0.2",
+    "dockerode": "^3.2.1",
     "js-yaml": "^3.13.1",
     "yargs": "^15.0.2"
   }

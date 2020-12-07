@@ -9,6 +9,6 @@
   "dependencies": {
     "dockerode": "^3.0.2",
     "js-yaml": "^3.13.1",
-    "yargs": "^15.0.2"
+    "yargs": "^16.2.0"
   }
 }
